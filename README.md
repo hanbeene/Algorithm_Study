@@ -1,4 +1,4 @@
-# :computer: BAEKJOON 공부
+# :computer: BAEKJOON
 백준에서 문제를 풀며 공부한 후 정리하는 곳입니다.
 
 
