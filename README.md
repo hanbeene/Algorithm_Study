@@ -6,3 +6,6 @@
 # :trophy: Level
 ## Bronze II
 2021.01.12 브론즈2 달성!! :satisfied:
+
+## Bronze I
+2021.01.21 브론즈1 달성!! :satisfied:
