@@ -1,7 +1,7 @@
 # :computer: BAEKJOON
 백준에서 문제를 풀며 공부한 후 정리하는 곳입니다.
 
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gks3066)](https://solved.ac/gks3066)
 
 # :trophy: Level
 ## Bronze II
