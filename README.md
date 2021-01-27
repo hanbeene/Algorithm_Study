@@ -4,8 +4,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gks3066)](https://solved.ac/gks3066)
 
 # :trophy: Level
-## Bronze II
-2021.01.12 브론즈2 달성!! :satisfied:
-
-## Bronze I
+## Bronze :waxing_crescent_moon:
+2021.01.12 브론즈2 달성!! :satisfied:  
 2021.01.21 브론즈1 달성!! :satisfied:
+
+## Silver :first_quarter_moon:
+2021.01.27 실버 5 달성!! :yum:
