@@ -2,11 +2,6 @@
 백준에서 문제를 풀며 공부한 후 정리하는 곳입니다.
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gks3066)](https://solved.ac/gks3066)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gks3066)](https://solved.ac/gks3066/)  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={gks3066})](https://solved.ac/{gks3066})  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={gks3066})](https://solved.ac/{gks3066})  
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={gks3066})](https://solved.ac/{gks3066})  
-
 
 # :trophy: Level
 ## Bronze :waxing_crescent_moon:
